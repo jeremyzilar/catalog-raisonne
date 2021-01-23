@@ -1,0 +1,27 @@
+
+/* Global CSS  */
+
+/* This is a rule */
+body{
+  background:lightgreen; /* This is a property */
+}
+
+p{
+  margin: 50px 0 50px 0;
+  padding: 50px 0 50px 0;
+  color: black;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 36px;
+}
+
+p strong{
+  color: black;
+}
+
+em{
+  background:yellow;
+}
+p em{
+  background: lightblue;
+}
