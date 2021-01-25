@@ -1,20 +1,24 @@
-
 /* Global CSS  */
 
 /* This is a rule */
-body{ background:white; /* This is a property */
-    }
-      p{margin: 10px 25px 10px 25px;
-        padding: 10px 10px 10px 10px;
-        color: black;
-        font-family: Arial, sans-serif;
-        font-size: 20px;
-        line-height: 36px;
-      }
+body {
+  background: white; /* This is a property */
+}
+p {
+  margin: 10px 25px 10px 25px;
+  padding: 10px 10px 10px 10px;
+  color: black;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 36px;
+}
 
-      p strong{ color: black;
-      }
-      p em{ background: yellow;
-      }
-      p big{ line-height: 26px;
-      }
+p strong {
+  color: black;
+}
+p em {
+  background: yellow;
+}
+p big {
+  line-height: 26px;
+}
