@@ -1,12 +1,42 @@
 /* Global CSS  */
 
 /* This is a rule */
+
 body {
-  background: white; /* This is a property */
+  background-color: whitesmokergb(209, 127, 127); /* This is a property */
+  background-image: linear-gradient(
+    to bottom,
+    rgba(221, 221, 191, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
 }
+
+h1 {
+  text-align: center;
+  color: rgb(199, 108, 108);
+  border: 10px 25px 20px 25px;
+  margin: 10px 25px 20px 25px;
+  padding: 5px 30px 10px 30px;
+}
+h2 {
+  text-align: left;
+  color: rgb(51, 61, 42);
+  border: 10px 25px 20px 25px;
+  margin: 10px 25px 20px 25px;
+  padding: 5px 30px 10px 30px;
+}
+h3 {
+  padding: 3px;
+  text-align: left;
+  color: brown;
+  border: 10px 25px 20px 25px;
+  margin: 10px 25px 20px 25px;
+  padding: 5px 30px 10px 30px;
+}
+
 p {
-  margin: 10px 25px 10px 25px;
-  padding: 10px 10px 10px 10px;
+  margin: 10px 25px 20px 25px;
+  padding: 5px 30px 10px 30px;
   color: black;
   font-family: Arial, sans-serif;
   font-size: 20px;
@@ -17,7 +47,7 @@ p strong {
   color: black;
 }
 p em {
-  background: yellow;
+  background: rgb(175, 175, 62);
 }
 p big {
   line-height: 26px;
