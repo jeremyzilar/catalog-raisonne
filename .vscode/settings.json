@@ -1,0 +1,19 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "search.exclude": {
+    "**/.netlify/": true,
+    "**/node_modules": true,
+    "**/.jekyll-cache": true,
+    "_site": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true
+}
