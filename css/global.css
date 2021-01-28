@@ -1,0 +1,30 @@
+/* Global CSS  */
+
+/* This is a rule */
+
+body {
+  background: #ddd;
+  color: #000;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+}
+
+blockquote {
+}
+
+div.page {
+  margin: 50px auto;
+  width: 700px;
+  background: #fff;
+}
+
+div.page .header {
+  padding: 25px 25px 30px 25px;
+  border-bottom: 1px #888 solid;
+}
+
+div.page .content {
+  padding: 25px 25px 30px 25px;
+}
