@@ -8,10 +8,8 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-p {
-}
-
 blockquote {
+  margin-left: 100px;
 }
 
 div.page {
@@ -22,7 +20,7 @@ div.page {
 
 div.page .header {
   padding: 25px 25px 30px 25px;
-  border-bottom: 1px #888 solid;
+  border-bottom: 10px rgb(149, 223, 171) solid;
 }
 
 div.page .content {

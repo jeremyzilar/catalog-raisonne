@@ -4,8 +4,8 @@
 
 body {
   background: rgb(245, 234, 234); /* This is a property */
-  color: #000000
-  font-family: Helvetica, Arial, sans-serif;
+  color: #000000 font-family;
+  helvetica: Arial, sans-serif;
 }
 
 div.page {
@@ -15,6 +15,7 @@ div.page {
 }
 
 div.page .header {
+  margin-left: 10px;
   padding: 25px 25px 30px 35px;
   border-bottom: 10px rgb(235, 165, 139) solid;
 }
