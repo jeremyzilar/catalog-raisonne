@@ -3,14 +3,18 @@
 /* This is a rule */
 
 body {
-  background: rgb(245, 234, 234); /* This is a property */
-  color: #000000 font-family;
-  helvetica: Arial, sans-serif;
+  background: rgb(245, 234, 234);
+  color: #000000 
+  font-family: helvetica: Arial, sans-serif;
+}
+
+blockquote{
+  margin-left: 10px
 }
 
 div.page {
   margin: 50px auto;
-  width: 700px;
+  width: 800px;
   background: rgba(184, 158, 158, 0.933);
 }
 
