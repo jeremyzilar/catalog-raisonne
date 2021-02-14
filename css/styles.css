@@ -4,12 +4,12 @@
 
 body {
   background: rgb(245, 234, 234);
-  color: #000000 
-  font-family: helvetica: Arial, sans-serif;
+  color: #000000;
+  font-family: helvetica, Arial, sans-serif;
 }
 
-blockquote{
-  margin-left: 10px
+blockquote {
+  margin-left: 10px;
 }
 
 div.page {
