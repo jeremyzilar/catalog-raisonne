@@ -26,5 +26,5 @@ year_created: "1966"
 - `year_created`: "1966"
 - `tbcr_inventory number`: "0004-2011-March_Couple_Ink_Drawing_on_Paper_OOK"  
 - `year_documented`: "2018"
-- `registered_copyright_with_library_of_congress`: "2022"
-- 
+- `registered_copyright_with_library_of_congress`: "pending"
+- `copyright_group_number`: "1234567910111212_pending"
