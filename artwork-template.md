@@ -24,5 +24,7 @@ year_created: "1966"
 - `artist`: "Johannes Vermeer"
 - `artwork_title`: "The Allegory of Painting"
 - `year_created`: "1966"
-- `year_documented`: 2018
+- `tbcr_inventory number`: "0004-2011-March_Couple_Ink_Drawing_on_Paper_OOK"  
+- `year_documented`: "2018"
+- `Registered Copyright with Library of congress`: 2022
 - 
