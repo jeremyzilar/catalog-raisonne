@@ -21,6 +21,6 @@ year_created: "1966"
 
 ## Draft template
 
-`artist`: "Johannes Vermeer"
-`artwork_title`: "The Allegory of Painting"
-`year_created`: "1966"
+- `artist`: "Johannes Vermeer"
+- `artwork_title`: "The Allegory of Painting"
+- `year_created`: "1966"
