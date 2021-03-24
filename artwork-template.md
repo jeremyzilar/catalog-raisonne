@@ -35,7 +35,9 @@ year_created: "1966"
 - `copyright_group_number`: "1234567910111212_pending"
 - `special_notes` :
 
-### special notes woudl include "must have non-reflective protective glass", or "must be viewed in a DARK blacked room under UV light only: any special instructions the artist expects, " work was revolve at 1 RMP every 30 seconds"
+### "special notes" would include "must have non-reflective protective glass", or "must be viewed in a DARK blacked room under UV light only: any special instructions the artist expects, " work was revolve at 1 RMP every 30 seconds"
+
+### I would also say instructions from the artist to the future...for example: I make works of art with a specific result I want to achieve, this is exactly where that information should be presereved, I want the surface to be half matte and half satin. Or only varnish with hand made DAMAR varnish with a specific-gravity of .78. "\_Specific gravity is the ratio of the density of a substance to the density of a reference substance. Apparent specific gravity is the ratio of the weight of a volume of the substance to the weight of an equal volume of the reference substance. The reference substance is nearly always water at its densest, for liquids and for gases, air at room temperature,. That being stated temperature and pressure must be specified for both the sample and the reference. Pressure is nearly always 1 atm equal to 101.325 kPa. Temperatures for both sample and reference vary from industry to industry. In British beer brewing practice the specific gravity as specified above is multiplied by 1000. Specific gravity is commonly used in industry as a simple means of obtaining information about the concentration of solutions of various materials such as brines, hydrocarbons, sugar solutions and acids."
 
 ### above are the most important listings for a printed out version of a Items CR listings
 
