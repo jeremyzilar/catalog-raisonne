@@ -26,7 +26,7 @@ year_created: "1966"
 - `year_created or conceived`: "1966"
 - `CR_inventory number`:
 
-# example: "0004-2011-March_Couple_Ink_Drawing_on_Paper_OOK"
+# example: "0004-2011-March_Couple_Ink_Drawing_on_Paper_OOK" ; every artist ussally starts with a numbering system, but it is really a confusing way to list, I have met many artists, and they say: I have a little book, or that is not really finished yet, there are millions of works by artists that were picked up after they died, and the family say the artist made it, but there is no number, not title, not record. If a work is made/ completed in the month of March, and it is one of three works in that month of March, I would say: "0004-2011-March_Couple_Ink_Drawing_on_Paper_OOK" The three character "ook" is my code for (one-of-kind) and I have written that on the reverese of many of my own works of art. everyone is different. the Livign artist might think their work os 'OOK' and never been made before in the history of art, but it sure can be documented with some sort of NFT or Crypto, but how long will that last? All of these CR should be printed out into hard copy, and sent to protective areas. such as the Library of Congress.
 
 - `overall_artist_mount_size`: "27 x 23 inches | centimeters"
 - `initial_inner_medium_support_size`: " 12 x 9 inches | centimeters"
